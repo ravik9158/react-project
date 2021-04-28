@@ -1,0 +1,24 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "main directory for react project",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravik9158/react-project.git"
+  },
+  "author": "Ravi Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravik9158/react-project/issues"
+  },
+  "homepage": "https://github.com/ravik9158/react-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
